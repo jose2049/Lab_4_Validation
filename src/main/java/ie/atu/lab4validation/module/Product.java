@@ -19,4 +19,4 @@ public class Product {
     @Positive(message = "Price must be greater than zero")
     private double price;
 }
-}
+
